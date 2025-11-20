@@ -1,0 +1,26 @@
+asgiref==3.8.1
+certifi==2025.1.31
+charset-normalizer==3.4.1
+distlib==0.3.9
+Django==5.2
+django-admin-adminlte==1.0.14
+django-jazzmin @ git+https://github.com/farridav/django-jazzmin.git@d269874c96fe5ff6d231c3017cdd4650bc2f3105
+django-widget-tweaks==1.5.0
+filelock==3.18.0
+idna==3.10
+joblib==1.5.1
+mysqlclient==2.2.7
+numpy==2.3.0
+pandas==2.3.0
+pillow==11.2.1
+platformdirs==4.3.7
+python-dateutil==2.9.0.post0
+pytz==2025.2
+requests==2.32.3
+scipy==1.15.3
+six==1.17.0
+sqlparse==0.5.3
+tzdata==2025.2
+urllib3==2.4.0
+virtualenv==20.30.0
+xgboost==3.0.2
